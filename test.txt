@@ -1,3 +1,6 @@
 This is a test file.
 This is a test code.
 This code will create a conflict. 
+This is a sample code.
+This code is to be stashed. 
+
